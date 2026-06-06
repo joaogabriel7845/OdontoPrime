@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --color-prussian: #1b263b;
+    --color-dusk: #415a77;
+    --color-lavender: #778da9;
+    --color-drawer: #111A2A;
+    --color-alabaster: #e0e1dd;
+    --color-alice-blue: #edf6f9;
+    --color-whatsapp: #25d366;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
